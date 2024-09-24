@@ -1,0 +1,11 @@
+google-generativeai
+python-dotenv
+langchain
+langchain_community
+PyPDF2
+#chromadb
+faiss-cpu
+langchain-google-genai
+Markdown
+streamlit
+streamlit-authenticator

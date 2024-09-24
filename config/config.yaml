@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    hegel:
+      email: hegel@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      logged_in: False # Will be managed automatically
+      name: Dr. Hegel T-Santamaría
+      password: $2b$12$YK33fqV8h0mi1T.yZZxeg.2Sj0XqQcZ8ucARHyMZJakDdMbN50AoW # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: this_is_a_test_string # Must be string
+  name: uroaicookie
+pre-authorized:
+  emails:
+  - rafaelchavezsolis@gmail.com
